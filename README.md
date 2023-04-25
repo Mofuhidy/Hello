@@ -62,35 +62,19 @@ After you're finished please remove all the comments and instructions!
 
 # 📖  'Hello Microverse' project <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
  'Hello Microverse' project is the first mini project I've done in microverse
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="#">HTML & CSS</a></li>
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
 </details>
 
 <!-- Features -->
@@ -99,9 +83,8 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- has **h1** html tag that say hello Microverse
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
