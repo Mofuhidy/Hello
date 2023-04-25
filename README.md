@@ -76,8 +76,9 @@ After you're finished please remove all the comments and instructions!
   <summary>Client</summary>
   <ul>
     <li><a href="#">HTML</a></li>
- 
-    <li><a href="#">CSS</a></li>
+  </ul>
+  <ul>
+      <li><a href="#">CSS</a></li>
   </ul>
 </details>
 
@@ -85,8 +86,6 @@ After you're finished please remove all the comments and instructions!
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - has **h1** html tag that say hello Microverse
 
@@ -188,7 +187,7 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+
 
 👤 **Mohammed AlFuhidy (Fuhidy)**
 
@@ -200,7 +199,6 @@ Example:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
 
 - [ ] **Make it mobile friendly**
 - [ ] **Adding some Images and navbar**
@@ -222,7 +220,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
+
 
 If you like this project...
 
@@ -232,7 +230,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+
 
 I would like to thank Microverse
 
