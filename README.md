@@ -1,4 +1,5 @@
-<a name="readme-top"></a>
+
+# <a name="readme-top"></a>
 
 <!--
 HOW TO USE:
@@ -27,7 +28,9 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
- <!-- <img src="murple_logo.png" alt="logo" width="140"  height="auto" /> -->
+
+  <!-- <img src="murple_logo.png" alt="logo" width="140"  height="auto" /> -->
+
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
@@ -60,16 +63,17 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
+
 # 📖 Hello Microverse <a name="about-project"></a>
 
 
 
 **'Hello Microverse project'** is the first mini project I've done in microverse
 
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
 
 
 <details>
@@ -83,11 +87,16 @@ After you're finished please remove all the comments and instructions!
 </details>
 
 
+
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
+
 - has **h1** html tag that say hello Microverse
+
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,6 +112,7 @@ After you're finished please remove all the comments and instructions!
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
+
 
 
 To get a local copy up and running, follow these steps.
@@ -200,9 +210,11 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
+
 - [ ] **Make it mobile friendly**
 - [ ] **Adding some Images and navbar**
 - [ ] **Make more sections**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -232,11 +244,14 @@ If you like this project...
 
 
 
+
 I would like to thank Microverse
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
+
 
 
 <!-- LICENSE -->
